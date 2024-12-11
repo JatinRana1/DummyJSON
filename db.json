@@ -4,37 +4,37 @@
       "id": 1,
       "title": "Complete project documentation",
       "description": "Write and organize all the documentation for the current project.",
-      "status": 2
+      "status": "In Progress"
     },
     {
       "id": 2,
       "title": "Update team on progress",
       "description": "Send an email update to the team about the current status of the project.",
-      "status": 1
+      "status": "To-do"
     },
     {
       "id": 3,
       "title": "Fix login page issue",
       "description": "Resolve the bug causing the login page to crash on invalid inputs.",
-      "status": 3
+      "status": "Done"
     },
     {
       "id": 4,
       "title": "Review PRs",
       "description": "Check and review all the pending pull requests in the repository.",
-      "status": 2
+      "status": "In Progress"
     },
     {
       "id": 5,
       "title": "Schedule team meeting",
       "description": "Plan and schedule a team meeting to discuss next steps.",
-      "status": 1
+      "status": "To-do"
     },
     {
       "id": 6,
       "title": "Optimize database queries",
       "description": "Improve the performance of slow database queries.",
-      "status": 3
+      "status": "Done"
     }
   ]
 }
