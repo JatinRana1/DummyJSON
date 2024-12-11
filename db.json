@@ -35,6 +35,91 @@
       "title": "Optimize database queries",
       "description": "Improve the performance of slow database queries.",
       "status": "Done"
+    },
+    {
+      "id": 7,
+      "title": "Design new homepage layout",
+      "description": "Create a new, modern homepage design for the website.",
+      "status": "In Progress"
+    },
+    {
+      "id": 8,
+      "title": "Implement user authentication",
+      "description": "Add login and registration functionality with JWT authentication.",
+      "status": "To-do"
+    },
+    {
+      "id": 9,
+      "title": "Update project README",
+      "description": "Make sure the project documentation is up-to-date with recent changes.",
+      "status": "Done"
+    },
+    {
+      "id": 10,
+      "title": "Add unit tests for new features",
+      "description": "Write unit tests to ensure the new features work correctly.",
+      "status": "In Progress"
+    },
+    {
+      "id": 11,
+      "title": "Fix styling issues on mobile",
+      "description": "Ensure that the website looks good on mobile devices by fixing CSS bugs.",
+      "status": "To-do"
+    },
+    {
+      "id": 12,
+      "title": "Implement file upload functionality",
+      "description": "Allow users to upload files to the server via the app.",
+      "status": "In Progress"
+    },
+    {
+      "id": 13,
+      "title": "Add new features to dashboard",
+      "description": "Enhance the dashboard with additional useful features.",
+      "status": "Done"
+    },
+    {
+      "id": 14,
+      "title": "Set up continuous integration",
+      "description": "Configure CI/CD pipeline for automatic testing and deployment.",
+      "status": "To-do"
+    },
+    {
+      "id": 15,
+      "title": "Prepare for product demo",
+      "description": "Get everything ready for the upcoming product demonstration.",
+      "status": "In Progress"
+    },
+    {
+      "id": 16,
+      "title": "Refactor legacy code",
+      "description": "Review and improve the codebase by refactoring outdated sections.",
+      "status": "To-do"
+    },
+    {
+      "id": 17,
+      "title": "Monitor server performance",
+      "description": "Keep track of server health and fix any performance issues.",
+      "status": "Done"
+    },
+    {
+      "id": 18,
+      "title": "Implement multi-language support",
+      "description": "Add support for multiple languages in the app.",
+      "status": "To-do"
+    },
+    {
+      "id": 19,
+      "title": "Upgrade dependencies",
+      "description": "Update all outdated dependencies in the project.",
+      "status": "In Progress"
+    },
+    {
+      "id": 20,
+      "title": "Conduct user testing",
+      "description": "Test the application with real users to gather feedback and make improvements.",
+      "status": "To-do"
     }
   ]
+  
 }
